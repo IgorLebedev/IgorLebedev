@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A fresh frontend-developer from Russia. Hexlet online school graduate. Now based in Thailand, Pattaya.</h3>
+<h3 align="center">A fresh frontend-developer from Russia. Hexlet online school graduate. Now based in Thailand, Bangkok.</h3>
 
 - 🌱 I’m currently learning **Tailwind and impoving layout skills**
 
