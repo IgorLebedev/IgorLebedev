@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A fresh frontend-developer from Russia. Hexlet online school graduate. Now based in Thailand, Bangkok.</h3>
 
-- 🌱 I’m currently focused on web3. **Keep improving layou and typescript skills**
+- 🌱 I’m currently focused on web3. **Keep improving layout and typescript skills**. 
 
 - 📲 Telegram [https://t.me/igor_lebedevv](https://t.me/igor_lebedevv)
 
