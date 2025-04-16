@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A fresh frontend-developer from Russia. Now based in Thailand, Bangkok.</h3>
+<h3 align="center">Frontend-developer from Russia. Now based in Thailand, Bangkok.</h3>
  
 
 - 📲 Telegram [https://t.me/igor_lebedevv](https://t.me/igor_lebedevv)
