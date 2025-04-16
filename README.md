@@ -2,10 +2,8 @@
 <h3 align="center">Frontend-developer from Russia. Now based in Thailand, Bangkok.</h3>
  
 
-- 📲 Telegram [https://t.me/igor_lebedevv](https://t.me/igor_lebedevv)
-
-- 📲 Line [https://line.me/ti/p/jZmp5RkmsK](https://line.me/ti/p/jZmp5RkmsK)
-
+- 📲 [Telegram](https://t.me/igor_lebedevv)  
+- 📲 [Line](https://line.me/ti/p/jZmp5RkmsK)  
 - 📫 Email **Lebedew.igor400@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
