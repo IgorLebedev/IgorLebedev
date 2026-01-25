@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">Frontend-developer from Russia. Now based in Thailand, Bangkok.</h3>
+<h3 align="center">Frontend developer</h3>
  
 
 - 📲 [Telegram](https://t.me/igor_lebedevv)  
 - 📲 [Line](https://line.me/ti/p/jZmp5RkmsK)  
 - 📫 Email **Lebedew.igor400@yandex.ru**
+- 📫 Email **igorlebedev228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
