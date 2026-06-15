@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Software engineer</h3>
  
 - 📲 [Telegram](https://t.me/igor_lebedevv)  
 - 📫 Email **Lebedew.igor400@yandex.ru**
